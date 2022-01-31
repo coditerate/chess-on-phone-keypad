@@ -30,4 +30,4 @@ Pawn : 0
 - If a different layout is used, the 'names' of the characters/digits appearing on each grid box will need to be provided, in a left to right order as they would appear on the grid, starting from the first row.
 - The solution can also be easily modified to ignore any characters in any grid boxes which you do not want to be included in the path traversals.
 - The solution can cater for more than 7-digit phone numbers, however after a certain limit, the data returned will show up as exponential values.
-- If you go further, then the `double` datatype used to return the result-set, will overflow and you will start seeing results.
+- If you go further, then the `double` datatype used to return the result-set, will overflow and you will start seeing unexpected results.
