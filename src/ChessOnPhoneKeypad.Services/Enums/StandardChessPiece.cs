@@ -1,9 +1,9 @@
-﻿namespace ChessOnPhoneKeypad.Services
+﻿namespace ChessOnPhoneKeypad.Services.Enums
 {
     /// <summary>
     /// This is a enumeration of all standard chess pieces
     /// </summary>
-    public enum StandardChessPieces
+    public enum StandardChessPiece
     {
         King,
         Queen,
