@@ -22,8 +22,6 @@ namespace ChessOnPhoneKeypad.Services.Services.Counter
         /// <summary>
         /// This method will give you the total number of valid phone numbers, traced out on a given layout
         /// for each chess piece in the given list of all chess pieces.
-        /// 'cannotStartWith' - values to ignore i.e., valid phone number cannot start with these numbers.
-        /// 'lengthOfPhoneNumber' - number of the digits a valid phone number needs to have.
         /// </summary>
         /// <param name="cannotStartWith">list of items which a valid phone number cannot start with</param>
         /// <param name="cannotContain">list of items which cannot be part of a valid phone number</param>
