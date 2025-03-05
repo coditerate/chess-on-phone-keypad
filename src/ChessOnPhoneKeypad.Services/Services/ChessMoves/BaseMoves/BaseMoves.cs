@@ -25,7 +25,7 @@ namespace ChessOnPhoneKeypad.Services.Services.ChessMoves.BaseMoves
 
         /// <summary>
         /// This is the base service class for calculating all possible next positions (where a given chess piece might end up),
-        /// for each position which the this chess piece could currently be in.
+        /// for each position which this chess piece could currently be in.
         /// </summary>
         /// <param name="chessPiece">the chess piece for which the next positions are being calculated</param>
         /// <param name="paths">paths are the movement graphs for any given chess piece taken in a single move</param>
